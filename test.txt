@@ -1,0 +1,1 @@
+testtestHello getUserInfo!Hello getUserInfo!Hello getHostname!Hello LAPTOP-0ANJ3J8G!Hello function getUserInfo() { [native code] }!Hello LAPTOP-0ANJ3J8G!
